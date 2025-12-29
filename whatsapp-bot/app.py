@@ -15,7 +15,7 @@ def whatsapp_reply():
     elif incoming_msg == "help":
         msg.body("Commands:\nhi\nhelp\ninfo")
     elif incoming_msg == "info":
-        msg.body("This is a Python WhatsApp Automation Bot 🚀")
+        msg.body("hello")
     elif:
         msg.body("please Sorry 😔 I didn’t understand.\nType *help*")
     else:
